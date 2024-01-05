@@ -1,0 +1,10 @@
+<service>
+
+<id>discovery-service</id>
+<name>discovery-service</name>
+<description>discovery-service</description>
+<executable>java</executable>
+<arguments>-jar discovery-service.jar</arguments>
+<log mode="none"/>
+
+</service>

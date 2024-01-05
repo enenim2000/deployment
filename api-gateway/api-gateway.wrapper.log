@@ -1,0 +1,13 @@
+2024-01-04 22:23:46,245 DEBUG - Starting WinSW in console mode
+2024-01-04 22:23:49,825 DEBUG - Starting WinSW in console mode
+2024-01-04 22:23:49,872 INFO  - Installing service 'api-gateway (api-gateway)'...
+2024-01-04 22:23:49,945 INFO  - Service 'api-gateway (api-gateway)' was installed successfully.
+2024-01-04 22:24:35,617 DEBUG - Starting WinSW in service mode
+2024-01-04 22:24:35,857 INFO  - Starting java -jar api-gateway.jar
+2024-01-04 22:24:35,914 INFO  - Started process 20256
+2024-01-04 22:24:35,937 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.IgnoreLogAppender
+2024-01-04 22:25:11,533 INFO  - Stopping api-gateway
+2024-01-04 22:25:11,533 DEBUG - ProcessKill 20256
+2024-01-04 22:25:11,540 DEBUG - Stopping process 20256...
+2024-01-04 22:25:11,566 DEBUG - Process 20256 canceled with code -1073741510.
+2024-01-04 22:25:11,599 INFO  - Finished api-gateway

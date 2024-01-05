@@ -1,0 +1,10 @@
+<service>
+
+<id>baascore</id>
+<name>baascore</name>
+<description>baascore</description>
+<executable>java</executable>
+<arguments>-jar baascore.jar</arguments>
+<log mode="none"/>
+
+</service>
