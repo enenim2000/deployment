@@ -11,3 +11,15 @@
 2024-01-04 22:25:11,540 DEBUG - Stopping process 20256...
 2024-01-04 22:25:11,566 DEBUG - Process 20256 canceled with code -1073741510.
 2024-01-04 22:25:11,599 INFO  - Finished api-gateway
+2024-01-09 11:52:30,304 DEBUG - Starting WinSW in service mode
+2024-01-09 11:52:31,335 INFO  - Starting java -jar api-gateway.jar
+2024-01-09 11:52:31,426 INFO  - Started process 6488
+2024-01-09 11:52:31,446 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.IgnoreLogAppender
+2024-01-14 14:01:23,856 DEBUG - Starting WinSW in service mode
+2024-01-14 14:01:24,826 INFO  - Starting java -jar api-gateway.jar
+2024-01-14 14:01:24,976 INFO  - Started process 6424
+2024-01-14 14:01:25,051 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.IgnoreLogAppender
+2024-01-15 18:53:42,730 DEBUG - Starting WinSW in service mode
+2024-01-15 18:53:44,033 INFO  - Starting java -jar api-gateway.jar
+2024-01-15 18:53:44,139 INFO  - Started process 6940
+2024-01-15 18:53:44,158 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.IgnoreLogAppender
