@@ -23,3 +23,11 @@
 2024-01-15 18:53:44,033 INFO  - Starting java -jar api-gateway.jar
 2024-01-15 18:53:44,139 INFO  - Started process 6940
 2024-01-15 18:53:44,158 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.IgnoreLogAppender
+2024-02-07 21:53:59,330 DEBUG - Starting WinSW in service mode
+2024-02-07 21:54:00,114 INFO  - Starting java -jar api-gateway.jar
+2024-02-07 21:54:00,222 INFO  - Started process 4996
+2024-02-07 21:54:00,264 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.IgnoreLogAppender
+2024-02-07 21:55:55,733 DEBUG - Starting WinSW in service mode
+2024-02-07 21:55:56,711 INFO  - Starting java -jar api-gateway.jar
+2024-02-07 21:55:56,796 INFO  - Started process 6544
+2024-02-07 21:55:56,815 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.IgnoreLogAppender
